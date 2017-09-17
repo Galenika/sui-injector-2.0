@@ -1,0 +1,11 @@
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\bin\Debug\SUICIDEINJECTOR.exe.config
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\bin\Debug\SUICIDEINJECTOR.exe
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\bin\Debug\SUICIDEINJECTOR.pdb
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\bin\Debug\SUICIDEINJECTOR.xml
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.vbprojResolveAssemblyReference.cache
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.Form1.resources
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.Resources.resources
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.vbproj.GenerateResource.Cache
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.exe
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.xml
+c:\users\kcrem\documents\visual studio 2015\Projects\SUICIDEINJECTOR\SUICIDEINJECTOR\obj\Debug\SUICIDEINJECTOR.pdb
